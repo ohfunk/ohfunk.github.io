@@ -1,11 +1,10 @@
 ---
-layout: home
-title: "Welcome"
+layout: default
+title: Home
+description: How cell fusion shapes gene expression during development.
 ---
-
-# Welcome to My Personal Website!
-
-I'm **Owen H. Funk**, a scientist passionate about [your research area].  
-Explore my [research](research.md), [projects](projects.md), [publications](publications.md), and [CV](cv.md).
-
-Feel free to [contact me](contact.md) if you'd like to connect!
+<section class="hero"><div class="hero-art" role="img" aria-label="Illustration of fused cells, gene-expression signals, and a C. elegans worm"></div><div class="container hero-copy"><p class="eyebrow">Funk Lab · University of Wyoming</p><h1>When cells <em>fuse,</em> what happens next?</h1><p class="lead">We investigate how shared cytoplasm rewires gene expression during development—using <em>C. elegans</em>, single-nucleus genomics, and a love of surprising biology.</p><div class="button-row"><a class="button" href="{{ '/research/' | relative_url }}">Explore our research</a><a class="button alt" href="{{ '/opportunities/' | relative_url }}">Join the lab</a></div></div></section>
+<section class="intro-strip"><div class="container"><strong>Big question</strong><span>How does a developmental change in cell architecture become a change in cellular identity?</span></div></section>
+<section class="section"><div class="container"><div class="section-heading"><p class="eyebrow">Research program</p><div><h2>Development is a team sport.</h2><p>Cell fusion creates syncytia: cells that share one cytoplasm while retaining their own nuclei. We are finding out how those nuclei coordinate—or don’t—to build a developing organism.</p></div></div><div class="card-grid"><article class="card"><span class="card-number">01 / regulatory logic</span><h3>Fusion as a switch</h3><p>We ask how epidermal fusion helps move <em>C. elegans</em> from embryonic to larval gene-expression programs.</p></article><article class="card"><span class="card-number">02 / nuclear neighborhoods</span><h3>Many nuclei, one cytoplasm</h3><p>Single-nucleus RNA-seq and ATAC-seq reveal how individual nuclei behave inside multinucleated cells.</p></article><article class="card"><span class="card-number">03 / developmental genetics</span><h3>Mechanism in motion</h3><p>We pair genomics with genetics and imaging to connect regulatory networks to developmental outcomes.</p></article></div></div></section>
+<section class="section dark"><div class="container"><div class="section-heading"><p class="eyebrow">Recent news</p><div><h2>What’s happening</h2><p>Highlights from Owen’s research and the program’s foundation.</p></div></div><ul class="news-list"><li><time>2025</time><p><strong>NIH K99/R00 Pathway to Independence Award</strong> supports a new independent research program on cell fusion and gene expression in the <em>C. elegans</em> epidermis.</p></li><li><time>2025</time><p><strong>New in Development:</strong> epidermal cell fusion promotes the transition from an embryonic to a larval transcriptome in <em>C. elegans</em>.</p></li><li><time>2024</time><p>Single-nucleus multi-omic workflows are being developed to resolve transcriptional states in multinucleated cells.</p></li></ul></div></section>
+<section class="section tint"><div class="container"><div class="callout"><div><p class="eyebrow">Trainees welcome</p><h2>Bring your curiosity. We’ll build the toolkit together.</h2><p>Undergraduates and rotation students can enter the lab through focused projects in worm genetics, functional genomics, and data analysis.</p></div><a class="button" href="{{ '/opportunities/' | relative_url }}">See opportunities</a></div></div></section>

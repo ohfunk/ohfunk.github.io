@@ -1,10 +1,8 @@
 ---
-layout: page
-title: "Publications"
+layout: default
+title: Publications
 permalink: /publications/
+description: Publications by Owen H. Funk.
 ---
-
-## Publications
-
-1. **Title** - *Journal Name*, Year. [DOI link](#)  
-2. **Title** - *Journal Name*, Year. [DOI link](#)
+<section class="page-hero"><div class="container"><p class="eyebrow">Selected work</p><h1>Ideas made public.</h1><p>Research spanning developmental genetics, chromatin biology, functional genomics, and sensory physiology.</p></div></section>
+<article class="container prose"><div class="publication"><h3>Funk OH, Levy DL, Fay DS. Epidermal cell fusion promotes the transition from an embryonic to a larval transcriptome in <em>C. elegans</em>.</h3><p class="meta"><em>Development</em>. 2025;152(24):dev205089. <a href="https://doi.org/10.1242/dev.205089">DOI</a></p></div><div class="publication"><h3>Funk O, Fay D. The people behind the papers—Owen Funk and David Fay.</h3><p class="meta"><em>Development</em>. 2025;152(24).</p></div><div class="publication"><h3>Funk OH, Qalieh Y, Doyle DZ, Lam MM, Kwan KY. Postmitotic accumulation of histone variant H3.3 in new cortical neurons establishes neuronal chromatin, transcriptome, and identity.</h3><p class="meta"><em>Proceedings of the National Academy of Sciences</em>. 2022;119(32):e2116956119. <a href="https://doi.org/10.1073/pnas.2116956119">DOI</a></p></div><div class="publication"><h3>Doyle DZ, Lam MM, Qalieh A, Qalieh Y, Sorel A, Funk OH, Kwan KY. Chromatin remodeler Arid1a regulates subplate neuron identity and wiring of cortical connectivity.</h3><p class="meta"><em>Proceedings of the National Academy of Sciences</em>. 2021;118(21):e2100686118. <a href="https://doi.org/10.1073/pnas.2100686118">DOI</a></p></div><div class="publication"><h3>Keil JM, Doyle DZ, Qalieh A, Lam MM, Funk OH, et al. Symmetric neural progenitor divisions require chromatin-mediated homologous recombination DNA repair by Ino80.</h3><p class="meta"><em>Nature Communications</em>. 2020;11:3839. <a href="https://doi.org/10.1038/s41467-020-17551-3">DOI</a></p></div><p><a class="button alt" href="{{ '/assets/documents/Owen-Funk-CV.docx' | relative_url }}">Download full CV (DOCX)</a></p></article>

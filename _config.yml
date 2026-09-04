@@ -1,7 +1,9 @@
-title: "Owen H. Funk"
-email: owenfunk@gmail.com
-description: "Personal website of scientist Owen H. Funk"
-baseurl: "" # Leave empty for GitHub Pages
-url: "https://ohfunk.github.io" # Replace with your GitHub Pages URL
-theme: minima
-author: "Owen H. Funk"
+title: "Funk Lab"
+email: ofunk@uwyo.edu
+description: "How cell fusion shapes gene expression during development."
+baseurl: ""
+url: "https://ohfunk.github.io"
+author: "Owen H. Funk, PhD"
+markdown: kramdown
+permalink: pretty
+exclude: [Gemfile, Gemfile.lock]
